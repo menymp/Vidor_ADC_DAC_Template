@@ -1,0 +1,225 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/TOSHIBA/Desktop/Maestria Docs Ingreso/semestre 2/Quartus/VidorFPGA-master/projects/vidor_ADC_DAC/simulation/modelsim
+Emcp4921_cnt
+Z1 w1597617965
+Z2 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z3 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z4 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z5 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z6 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R0
+Z7 8C:/Users/TOSHIBA/Desktop/Maestria Docs Ingreso/semestre 2/Quartus/VidorFPGA-master/projects/vidor_ADC_DAC/MCP4921_cnt.vhd
+Z8 FC:/Users/TOSHIBA/Desktop/Maestria Docs Ingreso/semestre 2/Quartus/VidorFPGA-master/projects/vidor_ADC_DAC/MCP4921_cnt.vhd
+l0
+L29
+V;z6ET>BU`W9HmVHf37RRo3
+!s100 kJF]^7?8UY6gzmh>L570>2
+Z9 OV;C;10.5b;63
+31
+Z10 !s110 1597628713
+!i10b 1
+Z11 !s108 1597628713.000000
+Z12 !s90 -reportprogress|300|-93|-work|work|C:/Users/TOSHIBA/Desktop/Maestria Docs Ingreso/semestre 2/Quartus/VidorFPGA-master/projects/vidor_ADC_DAC/MCP4921_cnt.vhd|
+Z13 !s107 C:/Users/TOSHIBA/Desktop/Maestria Docs Ingreso/semestre 2/Quartus/VidorFPGA-master/projects/vidor_ADC_DAC/MCP4921_cnt.vhd|
+!i113 1
+Z14 o-93 -work work
+Z15 tExplicit 1 CvgOpt 0
+Abhv
+R2
+R3
+R4
+R5
+R6
+DEx4 work 11 mcp4921_cnt 0 22 ;z6ET>BU`W9HmVHf37RRo3
+l47
+L41
+V`_^OANe`ka[Q`d6NG>Y422
+!s100 ahff9W^8P7Lo83JWB2JNO2
+R9
+31
+R10
+!i10b 1
+R11
+R12
+R13
+!i113 1
+R14
+R15
+Emcp4921_testmodule
+Z16 w1597628673
+R2
+R3
+R4
+R5
+R6
+R0
+Z17 8C:/Users/TOSHIBA/Desktop/Maestria Docs Ingreso/semestre 2/Quartus/VidorFPGA-master/projects/vidor_ADC_DAC/MCP4921_TestModule.vhd
+Z18 FC:/Users/TOSHIBA/Desktop/Maestria Docs Ingreso/semestre 2/Quartus/VidorFPGA-master/projects/vidor_ADC_DAC/MCP4921_TestModule.vhd
+l0
+L29
+VWmjlfGB>aN1`<k@2UkB?G3
+!s100 Q5jCW]End`AY>HhCE]1HR1
+R9
+31
+Z19 !s110 1597628714
+!i10b 1
+R11
+Z20 !s90 -reportprogress|300|-93|-work|work|C:/Users/TOSHIBA/Desktop/Maestria Docs Ingreso/semestre 2/Quartus/VidorFPGA-master/projects/vidor_ADC_DAC/MCP4921_TestModule.vhd|
+Z21 !s107 C:/Users/TOSHIBA/Desktop/Maestria Docs Ingreso/semestre 2/Quartus/VidorFPGA-master/projects/vidor_ADC_DAC/MCP4921_TestModule.vhd|
+!i113 1
+R14
+R15
+Abhv
+R2
+R3
+R4
+R5
+R6
+DEx4 work 18 mcp4921_testmodule 0 22 WmjlfGB>aN1`<k@2UkB?G3
+l44
+L39
+Vb2`KeAD76PC9bGEXZb9OV2
+!s100 fnAdM9[8FK4hSj8=mdjY?3
+R9
+31
+R19
+!i10b 1
+R11
+R20
+R21
+!i113 1
+R14
+R15
+Emcp4921_testmodule_tb
+Z22 w1597622122
+R3
+R4
+Z23 DPx4 ieee 16 std_logic_textio 0 22 V5TSK`;aJKC<l]CEg1>mz1
+R6
+R5
+R2
+R0
+Z24 8C:/Users/TOSHIBA/Desktop/Maestria Docs Ingreso/semestre 2/Quartus/VidorFPGA-master/projects/vidor_ADC_DAC/simulation/modelsim/mcp4921_testmodule_tb.vhd
+Z25 FC:/Users/TOSHIBA/Desktop/Maestria Docs Ingreso/semestre 2/Quartus/VidorFPGA-master/projects/vidor_ADC_DAC/simulation/modelsim/mcp4921_testmodule_tb.vhd
+l0
+L9
+V2cWYK;?N:feok<Sa<hPga3
+!s100 16VIn]N?M0cLcXz`_CCY33
+R9
+31
+R19
+!i10b 1
+Z26 !s108 1597628714.000000
+Z27 !s90 -reportprogress|300|-93|-work|work|C:/Users/TOSHIBA/Desktop/Maestria Docs Ingreso/semestre 2/Quartus/VidorFPGA-master/projects/vidor_ADC_DAC/simulation/modelsim/mcp4921_testmodule_tb.vhd|
+Z28 !s107 C:/Users/TOSHIBA/Desktop/Maestria Docs Ingreso/semestre 2/Quartus/VidorFPGA-master/projects/vidor_ADC_DAC/simulation/modelsim/mcp4921_testmodule_tb.vhd|
+!i113 1
+R14
+R15
+Amcp4921_testmodule_tb_arch
+R3
+R4
+R23
+R6
+R5
+R2
+DEx4 work 21 mcp4921_testmodule_tb 0 22 2cWYK;?N:feok<Sa<hPga3
+l26
+L12
+VKQDJm1ei^UcPIJG00Q0_A0
+!s100 MnLT`RSHT3F;NJAJCk<hV1
+R9
+31
+R19
+!i10b 1
+R26
+R27
+R28
+!i113 1
+R14
+R15
+vMKRVIDOR4000_top
+Z29 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+R10
+!i10b 1
+!s100 2_45KW:fZ<9;<VFHVUnAk0
+IhjoVzLFIB;5CEML_mT5V93
+Z30 VDg1SIo80bB@j0V0VzS_@n1
+!s105 MKRVIDOR4000_top_v_unit
+S1
+R0
+w1597542835
+8C:/Users/TOSHIBA/Desktop/Maestria Docs Ingreso/semestre 2/Quartus/VidorFPGA-master/projects/vidor_ADC_DAC/MKRVIDOR4000_top.v
+FC:/Users/TOSHIBA/Desktop/Maestria Docs Ingreso/semestre 2/Quartus/VidorFPGA-master/projects/vidor_ADC_DAC/MKRVIDOR4000_top.v
+L0 21
+Z31 OV;L;10.5b;63
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/TOSHIBA/Desktop/Maestria Docs Ingreso/semestre 2/Quartus/VidorFPGA-master/projects/vidor_ADC_DAC/MKRVIDOR4000_top.v|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/TOSHIBA/Desktop/Maestria Docs Ingreso/semestre 2/Quartus/VidorFPGA-master/projects/vidor_ADC_DAC|C:/Users/TOSHIBA/Desktop/Maestria Docs Ingreso/semestre 2/Quartus/VidorFPGA-master/projects/vidor_ADC_DAC/MKRVIDOR4000_top.v|
+!i113 1
+Z32 o-sv -work work
+!s92 -sv -work work {+incdir+C:/Users/TOSHIBA/Desktop/Maestria Docs Ingreso/semestre 2/Quartus/VidorFPGA-master/projects/vidor_ADC_DAC}
+Z33 tCvgOpt 0
+n@m@k@r@v@i@d@o@r4000_top
+vSYSTEM_PLL
+R29
+R10
+!i10b 1
+!s100 JWI3TQPoA[`=VJgzcNa?>3
+IHgC@DY>3BVNJ`QI_YnaKR3
+R30
+!s105 SYSTEM_PLL_v_unit
+S1
+R0
+w1579460862
+8C:/Users/TOSHIBA/Desktop/Maestria Docs Ingreso/semestre 2/Quartus/VidorFPGA-master/ip/SYSTEM_PLL/SYSTEM_PLL.v
+FC:/Users/TOSHIBA/Desktop/Maestria Docs Ingreso/semestre 2/Quartus/VidorFPGA-master/ip/SYSTEM_PLL/SYSTEM_PLL.v
+L0 40
+R31
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/TOSHIBA/Desktop/Maestria Docs Ingreso/semestre 2/Quartus/VidorFPGA-master/ip/SYSTEM_PLL/SYSTEM_PLL.v|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/TOSHIBA/Desktop/Maestria Docs Ingreso/semestre 2/Quartus/VidorFPGA-master/ip/SYSTEM_PLL|C:/Users/TOSHIBA/Desktop/Maestria Docs Ingreso/semestre 2/Quartus/VidorFPGA-master/ip/SYSTEM_PLL/SYSTEM_PLL.v|
+!i113 1
+R32
+!s92 -sv -work work {+incdir+C:/Users/TOSHIBA/Desktop/Maestria Docs Ingreso/semestre 2/Quartus/VidorFPGA-master/ip/SYSTEM_PLL}
+R33
+n@s@y@s@t@e@m_@p@l@l
+vSYSTEM_PLL_altpll
+R29
+R10
+!i10b 1
+!s100 f]3TBi[XNz?9PJPiJ;Fbh2
+IOHOi>c5cPNBOH4eY^P=7i2
+R30
+!s105 system_pll_altpll_v_unit
+S1
+R0
+w1597537719
+8C:/Users/TOSHIBA/Desktop/Maestria Docs Ingreso/semestre 2/Quartus/VidorFPGA-master/projects/vidor_ADC_DAC/db/system_pll_altpll.v
+FC:/Users/TOSHIBA/Desktop/Maestria Docs Ingreso/semestre 2/Quartus/VidorFPGA-master/projects/vidor_ADC_DAC/db/system_pll_altpll.v
+L0 31
+R31
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/TOSHIBA/Desktop/Maestria Docs Ingreso/semestre 2/Quartus/VidorFPGA-master/projects/vidor_ADC_DAC/db/system_pll_altpll.v|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/TOSHIBA/Desktop/Maestria Docs Ingreso/semestre 2/Quartus/VidorFPGA-master/projects/vidor_ADC_DAC/db|C:/Users/TOSHIBA/Desktop/Maestria Docs Ingreso/semestre 2/Quartus/VidorFPGA-master/projects/vidor_ADC_DAC/db/system_pll_altpll.v|
+!i113 1
+R32
+!s92 -sv -work work {+incdir+C:/Users/TOSHIBA/Desktop/Maestria Docs Ingreso/semestre 2/Quartus/VidorFPGA-master/projects/vidor_ADC_DAC/db}
+R33
+n@s@y@s@t@e@m_@p@l@l_altpll
